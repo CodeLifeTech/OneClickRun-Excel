@@ -1,4 +1,4 @@
-# ExcelOneClickRun(一点通工具箱 for Excel)
+# OneClickRun-Excel(一点通工具箱 for Excel)
 
 ## 简介
 一个免费的excel工具箱, 提供了很多便捷功能.
